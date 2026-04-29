@@ -54,4 +54,4 @@ BTC: {record['BTC']}
 ETH: {record['ETH']}
 LTC: {record['LTC']}
 Total records saved: {len(json_history)}
-==========================""")
+==========================""") 
